@@ -1,2 +1,2 @@
 # Hello World
-Þetta er lýsing á verkefninu mínu.
+Þetta er einföld vefsíða fyrir nám í vefþróun hjá Tækniskólanum.
